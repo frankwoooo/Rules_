@@ -1,8 +1,10 @@
 # NAME: 香港证券
 
 #长桥
-DOMAIN-SUFFIX,api-status.longbridgeapp.com
-DOMAIN-KEYWORD,lbkrs
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,wbrks.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,longbridgeapp.com
 
 #老虎
 # 官方网站与全球综合业务
@@ -10,10 +12,6 @@ DOMAIN-SUFFIX,itigergrowth.com
 DOMAIN-SUFFIX,itigergrowtha.com
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,itigerup.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.com.sg
-DOMAIN-SUFFIX,tigerbrokers.com.au
-DOMAIN-SUFFIX,tigerbrokers.co.nz
 # 社区与内容平台
 DOMAIN-SUFFIX,laohu8.com
 DOMAIN-SUFFIX,tigercommunity.com
