@@ -1,54 +1,12 @@
 # NAME: 香港证券
 
 #长桥
-DOMAIN,quote.longbridge.global
-DOMAIN,trade.longportapp.com
-DOMAIN-SUFFIX,lbctrl.com
-DOMAIN-SUFFIX,lbkrs.com
-DOMAIN-SUFFIX,wbrks.com
-DOMAIN-SUFFIX,lbkg.net
-DOMAIN-SUFFIX,lb-static.com
-DOMAIN-SUFFIX,longportapp.cn
-DOMAIN-SUFFIX,longportapp.com
-DOMAIN-SUFFIX,longportapp.hk
-DOMAIN-SUFFIX,longbridge.com
-DOMAIN-SUFFIX,longbridgeapp.com
-DOMAIN-SUFFIX,longbridge.hk
-DOMAIN-SUFFIX,longbridge.sg
-DOMAIN-SUFFIX,longbridge-inc.com
-
-IP-CIDR,47.85.0.0/16,no-resolve
-IP-CIDR,161.117.0.0/16,no-resolve
+DOMAIN-SUFFIX,api-status.longbridgeapp.com
+DOMAIN-KEYWORD,lbkrs
 
 #老虎
-# 官方网站与全球综合业务
-DOMAIN-SUFFIX,itigergrowth.com
-DOMAIN-SUFFIX,itigergrowtha.com
-DOMAIN-SUFFIX,itiger.com
-DOMAIN-SUFFIX,itigerup.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.com.sg
-DOMAIN-SUFFIX,tigerbrokers.com.au
-DOMAIN-SUFFIX,tigerbrokers.co.nz
-# 社区与内容平台
-DOMAIN-SUFFIX,laohu8.com
-DOMAIN-SUFFIX,tigercommunity.com
-# 行情、交易与 API 接口服务
-DOMAIN-SUFFIX,itigerapi.com
-DOMAIN-SUFFIX,tiger-brokers.com
-
-#富途
-# 富途大中华区与香港核心业务 (富途牛牛)
-DOMAIN-SUFFIX,futuhn.com
-DOMAIN-SUFFIX,futustatic.com
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuhk.com
-DOMAIN-SUFFIX,futuholdings.com
-DOMAIN-SUFFIX,futu5.com
-DOMAIN-SUFFIX,futuone.com
-# 富途全球国际化品牌 (Moomoo)
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,moomoo.io
-# 行情、交易及 OpenAPI 专用接口
-DOMAIN-SUFFIX,futuapi.com
-DOMAIN-SUFFIX,moomooapi.com
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
