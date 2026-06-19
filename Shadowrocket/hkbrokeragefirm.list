@@ -1,21 +1,15 @@
 # NAME: 香港证券
 
-#长桥
+#长桥证券
 DOMAIN-SUFFIX,lbctrl.com
 DOMAIN-SUFFIX,wbrks.com
 DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,longbridgeapp.com
 
-#老虎
-# 官方网站与全球综合业务
-DOMAIN-SUFFIX,itigergrowth.com
-DOMAIN-SUFFIX,itigergrowtha.com
-DOMAIN-SUFFIX,itiger.com
-DOMAIN-SUFFIX,itigerup.com
-DOMAIN-SUFFIX,skytigris.cn
-# 社区与内容平台
-DOMAIN-SUFFIX,laohu8.com
-DOMAIN-SUFFIX,tigercommunity.com
-# 行情、交易与 API 接口服务
-DOMAIN-SUFFIX,itigerapi.com
-DOMAIN-SUFFIX,tiger-brokers.com
+#老虎证券
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
+
