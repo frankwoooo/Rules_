@@ -1,0 +1,7 @@
+# NAME: Apple Podcast
+
+DOMAIN,podcasts.apple.com
+DOMAIN,podcast.apple.com
+DOMAIN,amp-api.podcast.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
