@@ -7,6 +7,14 @@ DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,longbridgeapp.com
 
 #老虎证券
+DOMAIN-KEYWORD,iotaskyt
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
+
 #DOMAIN-KEYWORD,iotaskyt,PROXY
 #DOMAIN-SUFFIX,skytigris.cn,PROXY
 #DOMAIN-KEYWORD,skytigris,PROXY
